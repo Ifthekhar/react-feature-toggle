@@ -1,0 +1,22 @@
+{
+  "features": [
+    {
+      "name": "feature1",
+      "enabled": false,
+      "depricated": false,
+      "expiryDate": ""
+    },
+    {
+      "name": "feature2",
+      "enabled": false,
+      "depricated": true,
+      "expiryDate": "15-06-2018"
+    },
+    {
+      "name": "feature3",
+      "enabled": true,
+      "depricated": false,
+      "expiryDate": ""
+    }
+  ]
+}
